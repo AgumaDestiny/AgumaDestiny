@@ -95,7 +95,8 @@ Currently studying to become a Data Scientist😊</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AgumaDestiny&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img  align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AgumaDestiny&show_icons=true&theme=radical" alt="=AgumaDestiny"/></p>
+
 
 <br/>  
 
